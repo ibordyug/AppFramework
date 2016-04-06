@@ -1,1 +1,1 @@
-include ':app', ':servantframework'
+include ':app', ':servantframework', ':employeeplugin'
